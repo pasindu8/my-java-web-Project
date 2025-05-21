@@ -11,7 +11,7 @@
 <li>Session-managed cart, wishlist, and profile features.</li>
 <li>Real-time booking updates via file-based backend.</li></ul>
 
-  <p>  This project is ideal for students and developers looking to understand practical applications of Java web technologies in a real-world context. This is a Java-based web application developed using **JSP**, **Servlets**, and **HTML/CSS**. The platform allows users to browse and book various tourist activities around Sri Lanka.</p>
+  <p>  This project is ideal for students and developers looking to understand practical applications of Java web technologies in a real-world context. This is a Java-based web application developed using **JSP**, **Servlets**, and **HTML/CSS/JAVASCRIPT**. The platform allows users to browse and book various tourist activities around Sri Lanka.</p>
 <br>
 
 <h3>🌐 Home Page Preview</h3>
@@ -28,10 +28,11 @@
 
 ## 🔧 Technologies Used
 - Java EE (JSP/Servlet)
-- HTML, CSS
-- Apache Tomcat
+- HTML, CSS, JAVASCRIPT
+- MYSQL
+- Apache Tomcat 9
 - Eclipse IDE
-- File-based data storage
+- XAMPP
 
 ## 🧭 Key Features
 - View all available activities
