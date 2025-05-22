@@ -147,7 +147,7 @@ To run this project properly, you need to import the dummy database into **phpMy
 - Make sure the database name in your code (`web.xml`, `DBConnection.java`, etc.) matches the one in the SQL file (usually `tour`).
 
 <br>
-## 🚀 Importing and Running the Project Through Eclipse IDE
+<h2>🚀 Importing and Running the Project Through Eclipse IDE</h2>
 
 Follow these steps to set up and run the project in Eclipse:
 
@@ -196,3 +196,11 @@ Note:- Considering this as a Sample Project, we have not much considered of web 
 <img src="https://drive.google.com/uc?export=view&id=1C-HhkPpZIHzCtgkhfSDZC_63888idSHo" width="600">
 <img src="https://drive.google.com/uc?export=view&id=1_VWvVZn4-VLHjtQDgnq3YZifLDB9FWZJ" width="600">
 </div>
+
+<h3>Admin login</h3>
+<b>Username :- admin<br>
+password :- 1234<br></b>
+
+<h3>User login</h3>
+<b>Username :- user<br>
+password :- 1234<br></b>
